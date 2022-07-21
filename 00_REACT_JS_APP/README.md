@@ -381,3 +381,10 @@ amplify push
 - https://docs.amplify.aws/lib/storage/configureaccess/q/platform/js/
 - https://docs.amplify.aws/lib/storage/configureaccess/q/platform/js/#customization
 - https://stackoverflow.com/questions/60936666/getting-missing-required-field-principal-when-adding-policy-to-s3-bucket
+
+# Paragraph css styles
+- https://wdexplorer.com/20-examples-beautiful-css-typography-design/
+
+# ToDo
+- Show is on caruosel images
+- Modal titles
